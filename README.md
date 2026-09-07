@@ -1,2 +1,2 @@
-# dinda.githug.io
+# dinda.github.io
 Tugas Mapel SIJDA
